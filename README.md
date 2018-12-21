@@ -1,0 +1,2 @@
+# .nvim
+switching to neovim
