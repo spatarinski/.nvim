@@ -1,0 +1,14 @@
+{
+  "tslint.autoFixOnSav": true,
+  "prettier.eslintIntegration": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "Markdown",
+    "css",
+    "javascript",
+    "json",
+    "Json",
+    "JSON",
+    "scss",
+    "typescript"
+  ]
+}
